@@ -1,5 +1,5 @@
 current directory: /home/mauricio/dio_ruby/ieat/vendor/bundle/ruby/2.7.0/gems/pg-1.2.3/ext
-/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20210812-5807-15jczbk.rb extconf.rb
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20210813-25524-vc3lu4.rb extconf.rb
 checking for pg_config... yes
 Using config values from /usr/bin/pg_config
 checking for libpq-fe.h... yes
@@ -50,4 +50,4 @@ linking shared-object pg_ext.so
 
 current directory: /home/mauricio/dio_ruby/ieat/vendor/bundle/ruby/2.7.0/gems/pg-1.2.3/ext
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 pg_ext.so ./.gem.20210812-5807-18yk3zu
+/usr/bin/install -c -m 0755 pg_ext.so ./.gem.20210813-25524-1rndjip

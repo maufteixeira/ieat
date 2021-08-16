@@ -1,5 +1,5 @@
 current directory: /home/mauricio/dio_ruby/ieat/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
-/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20210812-5807-zw2b0z.rb extconf.rb
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20210813-25524-g5lnnr.rb extconf.rb
 creating Makefile
 
 current directory: /home/mauricio/dio_ruby/ieat/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
@@ -12,4 +12,4 @@ linking shared-object skiptrace/internal/cruby.so
 
 current directory: /home/mauricio/dio_ruby/ieat/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 cruby.so ./.gem.20210812-5807-w3qg09/skiptrace/internal
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20210813-25524-xouo4l/skiptrace/internal
