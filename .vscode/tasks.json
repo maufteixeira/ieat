@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "test",
+			"path": "vendor/bundle/ruby/2.7.0/gems/webpacker-5.4.0/",
+			"group": "test",
+			"problemMatcher": [],
+			"label": "npm: test - vendor/bundle/ruby/2.7.0/gems/webpacker-5.4.0",
+			"detail": "jest"
+		}
+	]
+}
