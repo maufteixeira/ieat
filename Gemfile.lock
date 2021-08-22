@@ -244,7 +244,7 @@ DEPENDENCIES
   sass-rails (>= 6)
   shoulda-matchers
   sidekiq
-  spring
+  spring (~> 2.1.1)
   spring-watcher-listen (~> 2.0.0)
   turbolinks (~> 5)
   tzinfo-data
