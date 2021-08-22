@@ -1,4 +1,4 @@
-FROM ruby:2.7.0-alpine
+FROM ruby:2.7.2-alpine
 
 ENV TZ America/Sao_Paulo
 ENV LANG en_US.UTF-8
